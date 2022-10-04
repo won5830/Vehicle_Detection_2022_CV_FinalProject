@@ -25,5 +25,5 @@ With the average precision of 48.77%, sample detection results are visualized in
 With the average precision of 83.26%, sample detection results are visualized in the picture above. To improve the detection capability, linear SVM was replaced with Gaussial kernel tricked SVM. Furthermore, flattened rgb color histogram and local binary pattern were concatenated to flattened HOG feature to flourish the training information. This modification allowed for a noticeable improvement in detection rate, training speed, and detection speed.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/86834176/193737676-78b2d6a0-c14f-4275-86e1-7cc4d49b9056.png" width="400">
+<img src="https://user-images.githubusercontent.com/86834176/193737676-78b2d6a0-c14f-4275-86e1-7cc4d49b9056.png" width=700">
 </p>
